@@ -1,3 +1,8 @@
+'''
+This is the Diffy game that was talked about by Rob Eastaway.  User first input the four corners of a sqaure (starting from top left, clock-wise).
+The game will output the steps to get to 0,0,0,0 and draw out the sqaures using Turtle.
+'''
+
 from turtle import *
 from math import sqrt
 
